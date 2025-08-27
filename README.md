@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Project
+Application for doing a React quiz using useState, useEffect and useReducer hooks. For the application to work you have to open two terminals: one for the json-server to fetch the data for the questions (use the custom command on the terminal 'npm run server'), and one for the application itself (npm start). 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
